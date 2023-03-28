@@ -13,7 +13,7 @@ Why it is useful
 - 5) whose employer owns businesses or organizations that serves end users/customers and allows their employees to make use of their gift cards/certificates to exchange for what they want.
 
 How users can get started
-- The end users who are interested in DSA membership can request an appointment with Kyung here:
+- The end users who are interested in DSA membership can request an appointment with Kyung here:https://make-appts-with-kyung-y.as.me/schedule.php?appointmentType=38592878
 - The developer users of GitHub who are interested in contributing to the DSA GTSS project contact Kyung kyungyiokelly@divinesparkallies.net
 
 Where users can get help with your project
