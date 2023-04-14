@@ -20,6 +20,6 @@ Where to get help:
 - contact Kyung with any questions you may have at kyungyiokelly@divinesparkallies.net
 - Checkout the white paper to learn the requirements of the DSA GTSS at https://divinesparkallies.net
 
-Who maintains & contribute to your project
+Who maintains & contribute to the project
 
 - All who are willing and able to contribute to and maintain the DSA - GTSS by documenting all changes made to the system so that others can understand.
